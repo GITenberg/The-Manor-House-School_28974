@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28974#The-Manor-House-School
 gutenberg_issued: '2009-05-26'
 gutenberg_type: Text
 identifiers:

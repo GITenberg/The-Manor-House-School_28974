@@ -1,0 +1,36 @@
+_repo: The-Manor-House-School_28974
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Arthur A. (Arthur Augustus)
+    alias: Dixon, A. A. (Arthur Augustus)
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '28329'
+    url: http://www.gutenberg.org/2009/agents/28329
+covers:
+- cover_type: archival
+  image_path: 28974-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2009-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Manor House School
+url: http://www.gutenberg.org/ebooks/28974
